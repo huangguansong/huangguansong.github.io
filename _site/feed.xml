@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Gary</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-09-03T20:59:20+08:00</updated>
+  <updated>2024-08-27T17:58:12+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -17,58 +17,6 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
-
-  
-  <entry>
-    <title>linux stm32mp135faf7入门系列1</title>
-    <link href="http://localhost:4000/posts/linux-stm32mp135faf7-1/" rel="alternate" type="text/html" title="linux stm32mp135faf7入门系列1" />
-    <published>2024-09-03T19:57:01+08:00</published>
-  
-    <updated>2024-09-03T19:57:01+08:00</updated>
-  
-    <id>http://localhost:4000/posts/linux-stm32mp135faf7-1/</id>
-    <content src="http://localhost:4000/posts/linux-stm32mp135faf7-1/" />
-    <author>
-      <name>Gary</name>
-    </author>
-
-  
-    
-    <category term="linux" />
-    
-    <category term="stm32mp135" />
-    
-  
-
-  <summary>Dillinger
-The Last Markdown Editor, Ever
-
-
-  
-    
-      [![N
-      Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-    
-  
-
-
-
-
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-
-  Type some Markdown on the left
-  See HTML in the right
-  ✨Magic ✨
-
-
-Features
-
-
-  Import a HTML file and watch it...</summary>
-
-  </entry>
 
 </feed>
 
