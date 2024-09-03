@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Gary</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-08-27T17:58:12+08:00</updated>
+  <updated>2024-09-03T21:08:36+08:00</updated>
   <author>
     <name>your_full_name</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,37 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://localhost:4000/posts/hello-world/" rel="alternate" type="text/html" title="Hello World" />
+    <published>2012-08-25T00:00:00+08:00</published>
+  
+    <updated>2012-08-25T00:00:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/hello-world/</id>
+    <content src="http://localhost:4000/posts/hello-world/" />
+    <author>
+      <name>your_full_name</name>
+    </author>
+
+  
+    
+  
+
+  <summary>　—
+layout: default
+title: 你好，世界
+—
+
+Hello World
+
+我的第一篇文章
+
+25 Aug 2012</summary>
+
+  </entry>
 
 </feed>
 
